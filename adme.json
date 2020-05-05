@@ -1,7 +1,14 @@
 {
   "rcontrol": [
     {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "ADMbanner": "ca-app-pub-3940256099942544/6300978111",
+      "ADMinterstitial": "ca-app-pub-3940256099942544/6300978111",
+      "FBbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "FBinterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      
+       "ButtonActivation": "0",
+      
+      
       "activation": "2",
       "adID": ""
     }
