@@ -1,19 +1,24 @@
 {
   "rcontrol": [
     {
+            
+      
+      "activation": "2",
+      "adID": "",
       "ADMbanner": "ca-app-pub-3940256099942544/6300978111",
       "ADMinterstitial": "ca-app-pub-3940256099942544/6300978111",
       "FBbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "FBinterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
        "Interstitialcount": "2",
+      
+      "urlimg": "https://i.imgur.com/K7qpfdo.png", 
+      "ALertActivation": 2,
+      "urlapp": "https://play.google.com/store/apps/details?id=com.YTubeplay.downloadfreemusic.YTubeplaymp3downloader"
      
      
       
-       "ButtonActivation": "0",
-      
-      
-      "activation": "2",
-      "adID": ""
+       "ButtonActivation": "0"
+
     }
   ]
 }
