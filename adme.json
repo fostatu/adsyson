@@ -22,7 +22,11 @@
       
      
      /* this is Tuby Controle */
-       "ButtonActivation": "0" /* 1--> Show tuby button  */
+       "ButtonActivation": "1", /* 1--> Show tuby button  */
+      "ButtonIMG": "Yes",  
+      "ButtonTEXT": "Yes",  
+      "ButtonSubTEXT": "Yes",  
+      "WebViewUrl": "Yes"
       /* this is Tuby Controle end */
 
     }
