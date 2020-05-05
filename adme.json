@@ -2,22 +2,28 @@
   "rcontrol": [
     {
             
+      /* this is ADS Controle */
+      "activation": "2", /* 1--> Google || 2--> Fb */
+      "adID": "" ,      /* Google APP ID*/
+      "ADMbanner": "ca-app-pub-3940256099942544/6300978111", /*  Google Banner */
+      "ADMinterstitial": "ca-app-pub-3940256099942544/6300978111", /*  Google Interstitial */
+      "FBbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", /*  Fb Banner */
+      "FBinterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", /*  FB Interstitial */
+       "Interstitialcount": "2", /* Interstitial Counter + 1 */
+      /* this is ADS Controle End */
       
-      "activation": "2",
-      "adID": "",
-      "ADMbanner": "ca-app-pub-3940256099942544/6300978111",
-      "ADMinterstitial": "ca-app-pub-3940256099942544/6300978111",
-      "FBbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FBinterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-       "Interstitialcount": "2",
-      
-      "urlimg": "https://i.imgur.com/K7qpfdo.png", 
-      "ALertActivation": 2,
+      /* this is AlertDialog */
+      "urlimg": "https://i.imgur.com/K7qpfdo.png", /* AlertDialog Image */
+      "ALertActivation": 2,                        /* 1--> setCancelable(True)  ||  2--> setCancelable(False) */
       "urlapp": "https://play.google.com/store/apps/details?id=com.YTubeplay.downloadfreemusic.YTubeplaymp3downloader",
-     
-     
+      "ButtonYesTEXT": "Yes",     
+      "ButtonNoTEXT": "No",     
+      /* this is AlertDialog End */
       
-       "ButtonActivation": "0"
+     
+     /* this is Tuby Controle */
+       "ButtonActivation": "0" /* 1--> Show tuby button  */
+      /* this is Tuby Controle end */
 
     }
   ]
