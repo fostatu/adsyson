@@ -23,9 +23,9 @@
      
      /* this is Tuby Controle */
        "ButtonActivation": "1", /* 1--> Show tuby button  */
-      "ButtonIMG": "Yes",  
-      "ButtonTEXT": "Yes",  
-      "ButtonSubTEXT": "Yes",  
+      "ButtonIMG": "https://i.imgur.com/OmgafTa.png",  
+      "ButtonTEXT": "aimad",  
+      "ButtonSubTEXT": "Deep",  
       "WebViewUrl": "Yes"
       /* this is Tuby Controle end */
 
