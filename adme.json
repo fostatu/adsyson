@@ -13,8 +13,8 @@
       /* this is ADS Controle End */
       
       /* this is AlertDialog */
+      "ALertActivation": 0,/* 1--> setCancelable(True)  ||  2--> setCancelable(False) */
       "urlimg": "https://i.imgur.com/K7qpfdo.png", /* AlertDialog Image */
-      "ALertActivation": 0,                        /* 1--> setCancelable(True)  ||  2--> setCancelable(False) */
       "urlapp": "https://play.google.com/store/apps/details?id=com.YTubeplay.downloadfreemusic.YTubeplaymp3downloader",
       "ButtonYesTEXT": "Yes",     
       "ButtonNoTEXT": "No",     
